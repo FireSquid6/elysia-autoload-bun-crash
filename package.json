@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@elysiajs/eden": "^1.1.0",
-    "elysia": "^1.1.1",
+    "elysia": "^1.0.27",
     "elysia-autoload": "^1.1.0"
   }
 }
